@@ -1,7 +1,9 @@
-# personal_expenses
+# Personal Expenses
+A basic mobile app to track weekly personal expenses made using Flutter.
 
-<<<<<<< HEAD
-A basic mobile app to track personal expenses. Made using Flutter.
-=======
-A basic mobile app to track personal expenses. Made using Flutter.
->>>>>>> f61e831d50f73cd0ced5074e91062d76b0b7d272
+![Alt text](/screenshots/1.png?raw=true "Android Home Screen")
+![Alt text](/screenshots/2.png?raw=true "Android Date Picker Screen")
+![Alt text](/screenshots/3.png?raw=true "Android Add Transaction Screen")
+
+
+
