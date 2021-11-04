@@ -1,9 +1,10 @@
 # Personal Expenses
 A basic mobile app to track weekly personal expenses made using Flutter.
 
-![Alt text](/screenshots/1.png?raw=true "Android Home Screen")
-![Alt text](/screenshots/2.png?raw=true "Android Date Picker Screen")
-![Alt text](/screenshots/3.png?raw=true "Android Add Transaction Screen")
-
+<p align="center">
+  <img src="1.png" width="256" height="455">
+  <img src="2.png" width="256" height="455">
+  <img src="3.png" width="256" height="455">
+</p>
 
 
